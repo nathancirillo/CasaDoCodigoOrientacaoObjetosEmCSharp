@@ -1,0 +1,8 @@
+C:\ProjetosMeus\ProjetosCasaCodigo\OrientacaoObjetosEmCSharp\PrimeiroApp\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+C:\ProjetosMeus\ProjetosCasaCodigo\OrientacaoObjetosEmCSharp\PrimeiroApp\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+C:\ProjetosMeus\ProjetosCasaCodigo\OrientacaoObjetosEmCSharp\PrimeiroApp\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+C:\ProjetosMeus\ProjetosCasaCodigo\OrientacaoObjetosEmCSharp\PrimeiroApp\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.AssemblyReference.cache
+C:\ProjetosMeus\ProjetosCasaCodigo\OrientacaoObjetosEmCSharp\PrimeiroApp\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.SuggestedBindingRedirects.cache
+C:\ProjetosMeus\ProjetosCasaCodigo\OrientacaoObjetosEmCSharp\PrimeiroApp\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.CoreCompileInputs.cache
+C:\ProjetosMeus\ProjetosCasaCodigo\OrientacaoObjetosEmCSharp\PrimeiroApp\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+C:\ProjetosMeus\ProjetosCasaCodigo\OrientacaoObjetosEmCSharp\PrimeiroApp\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
